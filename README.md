@@ -11,8 +11,8 @@ Prototipar um dashboard que apresente informações de faturamento e metas para 
     - Fonte: Barlow
     - Paleta de cores:
         - **Primária:** Laranja (#fd8426)
-        - **Secundária:** Roxo (#9A20FF)
-        - **Terciária:** Verde (#8426fd)
+        - **Secundária:** Roxo (#8426fd)
+        - **Terciária:** Verde (#26fd84)
      
 2. **Ferramenta de Prototipação**
     - Você pode usar qualquer ferramenta de prototipação de sua escolha, como Figma, Adobe XD ou Sketch.
