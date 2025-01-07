@@ -17,7 +17,7 @@ Prototipar um dashboard que apresente informações de faturamento e metas para 
 2. **Ferramenta de Prototipação**
     - Você pode usar qualquer ferramenta de prototipação de sua escolha, como Figma, Adobe XD ou Sketch.
 3. **Prazo**
-    - Você tem até **27/12/2024 as 08:00 horas** para completar este teste.
+    - Você tem até **17/01/2025 as 08:00 horas** para completar este teste.
 4.  **Entrega**
      - Envie um link para o e-mail dev@vozeduca.com.br para o protótipo funcional ou o arquivo editável da ferramenta escolhida.
      - Inclua uma breve explicação (máximo 300 palavras) sobre suas escolhas de design e usabilidade.
